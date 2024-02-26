@@ -332,3 +332,6 @@ ASALocalRun/
 
 # Functions local settings
 local.settings.json
+/ImageFunctions/Properties/ServiceDependencies/funcapp1678 - Zip Deploy
+/ImageFunctions/Properties/serviceDependencies.funcapp1678 - Zip Deploy.json
+/ImageFunctions/Properties/serviceDependencies.json
